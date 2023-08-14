@@ -37,7 +37,6 @@ unzip displaylink-driver.zip
 
 Step 8: Give execute permissions to the installer script
 ```bash
-cd displaylink-driver
 sudo chmod 777 run file name
 ```
 
