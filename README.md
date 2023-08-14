@@ -31,7 +31,7 @@ Step 6: Download the DisplayLink driver package from the provided link (https://
 
 Step 7: Extract the downloaded ZIP file. Assuming the file is named `displaylink-driver.zip` and is in your Downloads directory:
 ```bash
-cd ~/Downloads
+cd Downloads
 unzip displaylink-driver.zip
 ```
 
