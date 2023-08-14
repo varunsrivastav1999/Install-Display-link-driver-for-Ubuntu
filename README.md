@@ -38,12 +38,12 @@ unzip displaylink-driver.zip
 Step 8: Give execute permissions to the installer script
 ```bash
 cd displaylink-driver
-chmod +x run
+sudo chmod 777 run file name
 ```
 
 Step 9: Run the installer script
 ```bash
-sudo ./run
+sudo ./run file name
 ```
 
 Step 10: Disconnect all connected DisplayLink devices (docks or monitors) from your computer.
